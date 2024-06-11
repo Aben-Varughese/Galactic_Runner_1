@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{C5ADF10E-C2A7-41C4-8718-FA74942436A4}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SpaceObject.cs">
+    <Files>
+      <File FileName="Program.cs" Line="17" Column="50" />
+      <File FileName="GameLoop.cs" Line="23" Column="44" />
+      <File FileName="SpaceObject.cs" Line="1" Column="1" />
+      <File FileName="Projectile.cs" Line="1" Column="1" />
+      <File FileName="EnemyFactory.cs" Line="1" Column="1" />
+      <File FileName="HighScore.cs" Line="1" Column="1" />
+      <File FileName="myeasylog.log" Line="1" Column="1" />
+      <File FileName="IUpdatable.cs" Line="1" Column="1" />
+      <File FileName="IDrawable.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Galactic_Runner_1" expanded="True">
+            <Node name="Galactic_Runner_1" expanded="True">
+              <Node name="SpaceObject.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Galactic__Runner__1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

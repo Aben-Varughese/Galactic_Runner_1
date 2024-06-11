@@ -1,0 +1,15 @@
+/Users/abenbinuvarughese/Desktop/COS20007/Galactic_Runner_1/obj/Debug/net7.0/Galactic_Runner_1.csproj.AssemblyReference.cache
+/Users/abenbinuvarughese/Desktop/COS20007/Galactic_Runner_1/obj/Debug/net7.0/Galactic_Runner_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abenbinuvarughese/Desktop/COS20007/Galactic_Runner_1/obj/Debug/net7.0/Galactic_Runner_1.AssemblyInfoInputs.cache
+/Users/abenbinuvarughese/Desktop/COS20007/Galactic_Runner_1/obj/Debug/net7.0/Galactic_Runner_1.AssemblyInfo.cs
+/Users/abenbinuvarughese/Desktop/COS20007/Galactic_Runner_1/obj/Debug/net7.0/Galactic_Runner_1.csproj.CoreCompileInputs.cache
+/Users/abenbinuvarughese/Desktop/COS20007/Galactic_Runner_1/bin/Debug/net7.0/Galactic_Runner_1
+/Users/abenbinuvarughese/Desktop/COS20007/Galactic_Runner_1/bin/Debug/net7.0/Galactic_Runner_1.deps.json
+/Users/abenbinuvarughese/Desktop/COS20007/Galactic_Runner_1/bin/Debug/net7.0/Galactic_Runner_1.runtimeconfig.json
+/Users/abenbinuvarughese/Desktop/COS20007/Galactic_Runner_1/bin/Debug/net7.0/Galactic_Runner_1.dll
+/Users/abenbinuvarughese/Desktop/COS20007/Galactic_Runner_1/bin/Debug/net7.0/Galactic_Runner_1.pdb
+/Users/abenbinuvarughese/Desktop/COS20007/Galactic_Runner_1/obj/Debug/net7.0/Galactic_Runner_1.dll
+/Users/abenbinuvarughese/Desktop/COS20007/Galactic_Runner_1/obj/Debug/net7.0/refint/Galactic_Runner_1.dll
+/Users/abenbinuvarughese/Desktop/COS20007/Galactic_Runner_1/obj/Debug/net7.0/Galactic_Runner_1.pdb
+/Users/abenbinuvarughese/Desktop/COS20007/Galactic_Runner_1/obj/Debug/net7.0/Galactic_Runner_1.genruntimeconfig.cache
+/Users/abenbinuvarughese/Desktop/COS20007/Galactic_Runner_1/obj/Debug/net7.0/ref/Galactic_Runner_1.dll

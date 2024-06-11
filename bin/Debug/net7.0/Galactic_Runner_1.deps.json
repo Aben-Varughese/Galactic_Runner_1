@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Galactic_Runner_1/1.0.0": {
+        "runtime": {
+          "Galactic_Runner_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Galactic_Runner_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
